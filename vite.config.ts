@@ -1,3 +1,4 @@
+"homepage": "https://YOUR_USERNAME.github.io/smart-associates",
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
